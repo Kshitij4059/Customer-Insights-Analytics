@@ -28,5 +28,3 @@ Improve subscription benefits to increase retention
 Introduce loyalty programs for repeat customers
 Optimize discount strategies for better margins
 Focus marketing on high-performing products and customer segments
-
-If you want, I can also make a more attractive GitHub README (with badges, icons, and project structure) or tailor it specifically for recruiters 🔥
