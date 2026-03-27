@@ -1,4 +1,4 @@
-📊 # Customer-Insights-Analysis
+📊 # Customer-Shopping-Behavior-Analysis
 
 This project analyzes customer purchasing behavior using Python, PostgreSQL, and Power BI to generate actionable business insights.
 
